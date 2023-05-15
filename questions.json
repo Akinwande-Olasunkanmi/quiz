@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is 2 + 2 ?",
+        "choice1": "3",
+        "choice2": "8",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 3
+    },
+    {
+        "question": "The sum of two even number is ?",
+        "choice1": "Even",
+        "choice2": "Prime",
+        "choice3": "Odd",
+        "choice4": "Infinity",
+        "answer": 1
+    },
+    {
+        "question": "What is the square root of 81",
+        "choice1": "5",
+        "choice2": "9",
+        "choice3": "6",
+        "choice4": "19",
+        "answer": 2
+    }
+]
